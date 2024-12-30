@@ -38,3 +38,5 @@ macos/**
 */flutter
 windows/runner
 macos/Flutter/GeneratedPluginRegistrant.swift
+
+*generated*
